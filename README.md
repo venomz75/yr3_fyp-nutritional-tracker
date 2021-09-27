@@ -1,5 +1,5 @@
 # Final year project: Monitoring food intake using a smartphone camera
-### My final year project at university: a nutrition tracking app utilising the smartphone's camera. The system is comprised of 3 components:
+### My final year project at university is a nutrition tracking app utilising the smartphone's camera. The system is comprised of 3 components:
 * Front end (Android, Kotlin)
 * Back end (NodeJS, PM2)
 * Database (MongoDB)
